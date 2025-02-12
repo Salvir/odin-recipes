@@ -1,0 +1,13 @@
+.page-title{
+    background-color: blueviolet;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.recipe-list .list-item {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
